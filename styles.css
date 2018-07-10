@@ -1,0 +1,5 @@
+/* Psuedo Element and Pusedo Class Selector,which will select the 3rd child of list elements*/
+div.third ul>li:nth-child(3)
+{
+	background-color: blue;
+}
